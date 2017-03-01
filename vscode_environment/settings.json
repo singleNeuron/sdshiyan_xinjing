@@ -1,0 +1,8 @@
+// 将设置放入此文件中以覆盖默认设置
+{
+    "clang.executable": "C:/Program Files (x86)/Dev-Cpp/MinGW32",
+    "clang.completion.enable": true ,
+    "clang.cxxflags": [
+        "-std=c++11","-I C:/Program Files (x86)/Dev-Cpp/MinGW32/include"
+    ]
+}
